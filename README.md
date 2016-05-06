@@ -1,1 +1,1 @@
-A simple Hashcracker in Python for my IT-Security course
+A simple hashcracker in python 3 for my IT-Security course
